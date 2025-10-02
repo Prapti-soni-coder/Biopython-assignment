@@ -1,6 +1,6 @@
 # Biopython-assignment
 #Prapti soni
-# Install or upgrade Biopython in Colab
+# Install Biopython
 !pip install Biopython
 
 # -------------------------------
